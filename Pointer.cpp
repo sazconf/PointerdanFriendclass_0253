@@ -27,5 +27,6 @@ cout<<"Nilai dari C:" << *c << endl;
     int f= 5;
     int g= 5;
 
+    
 
 }
